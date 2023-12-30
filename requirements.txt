@@ -1,0 +1,6 @@
+pymongo 
+datetime
+numpy
+opencv-python-headless
+face_recognition
+streamlit
